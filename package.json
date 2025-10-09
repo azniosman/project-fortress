@@ -16,7 +16,7 @@
     "express-rate-limit": "^7.1.5",
     "helmet": "^7.1.0",
     "stripe": "^18.5.0",
-    "winston": "^3.11.0"
+    "winston": "^3.18.3"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
