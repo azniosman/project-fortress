@@ -21,3 +21,4 @@ mypy-boto3-lambda>=1.28.0
 mypy-boto3-iam>=1.28.0
 python-dateutil>=2.8.2
 jsonschema>=4.18.0 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
